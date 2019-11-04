@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="activeio-core-3.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/lib/activeio-core-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/activemq-all-5.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/activemq-pool-5.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/commons-pool2-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
